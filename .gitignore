@@ -39,7 +39,7 @@ build/Release
 
 # Dependency directories
 #### 
-# node_modules/ # need to include node modules for github action
+node_modules/
 jspm_packages/
 
 # TypeScript v1 declaration files
